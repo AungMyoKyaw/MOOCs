@@ -1,7 +1,7 @@
 ---
 markmap:
   embedAssets: true
-  maxWidth: 300
+  maxWidth: 400
   colorFreezeLevel: 3
 ---
 
@@ -21,7 +21,7 @@ markmap:
 - [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/account/accomplishments/certificate/4UAE98GYK9ZL)
 - [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/account/accomplishments/certificate/YK6PX8ZWCNUY)
 
-### Executive Data Science Specialization [ 4/5 (not completed yet)]
+### Executive Data Science Specialization [ 4/5 ]
 
 - [A Crash Course in Data Science](https://www.coursera.org/account/accomplishments/certificate/R6RBPNAFLKK5)
 - [Building a Data Science Team](https://www.coursera.org/account/accomplishments/certificate/A39XE6CPCFRK)
@@ -31,3 +31,7 @@ markmap:
 ### [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/2UZ5KDXDHX98)
 
 ### [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/account/accomplishments/certificate/D5YLNXLRV47V)
+
+### [The Science of Success: What Researchers Know that You Should Know](https://www.coursera.org/account/accomplishments/certificate/3SCV47QQK7JE)
+
+### [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/account/accomplishments/certificate/MBB63XT9RKNB)
