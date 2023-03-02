@@ -6,7 +6,7 @@ npx markmap-cli --no-toolbar  README.md -o dist/index.html
 
 markmaptitle="<title>Markmap<\/title>"
 title="<title>MOOCs | Aung Myo Kyaw<\/title>"
-openInNewTab="<\/style>\n<base target=\"_blank\" \/>"
+openInNewTabAndLinkColorChange="a {\n  color: #000 !important;\n  text-decoration: none;\n}\n<\/style>\n<base target=\"_blank\"\/>"
 
 mvTempToIndexHtml() {
   mv dist/temp.html dist/index.html
@@ -16,6 +16,6 @@ sed "s/$markmaptitle/$title/" dist/index.html > dist/temp.html
 
 mvTempToIndexHtml
 
-sed "s/\<\/style\>/$openInNewTab/" dist/index.html > dist/temp.html
+sed "s/\<\/style\>/$openInNewTabAndLinkColorChange/" dist/index.html > dist/temp.html
 
 mvTempToIndexHtml

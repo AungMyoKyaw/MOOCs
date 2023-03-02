@@ -1,4 +1,11 @@
-# Aung Myo Kyaw
+---
+markmap:
+  embedAssets: true
+  maxWidth: 300
+  colorFreezeLevel: 3
+---
+
+# [Aung Myo Kyaw](https://www.aungmyokyaw.com)
 
 ## MOOCs
 
