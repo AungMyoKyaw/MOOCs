@@ -21,12 +21,13 @@ markmap:
 - [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/account/accomplishments/certificate/4UAE98GYK9ZL)
 - [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/account/accomplishments/certificate/YK6PX8ZWCNUY)
 
-### Executive Data Science Specialization [ 4/5 ]
+### [Executive Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/CCA4K99FLBY9)
 
 - [A Crash Course in Data Science](https://www.coursera.org/account/accomplishments/certificate/R6RBPNAFLKK5)
 - [Building a Data Science Team](https://www.coursera.org/account/accomplishments/certificate/A39XE6CPCFRK)
 - [Managing Data Analysis](https://www.coursera.org/account/accomplishments/certificate/QGHH247Y3HZJ)
 - [Data Science in Real Life](https://www.coursera.org/account/accomplishments/certificate/6J7XWCL3GY7Q)
+- [Executive Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/8VWJC599HLVE)
 
 ### [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/2UZ5KDXDHX98)
 
