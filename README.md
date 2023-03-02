@@ -12,6 +12,7 @@ markmap:
 ### in progress
 
 - People and Soft Skills for Professional and Personal Success Specialization
+  - [Collaborate Effectively for Professional Success](https://www.coursera.org/account/accomplishments/certificate/XYEPHPQZPCRK)
 - Blockchain
 
 ### [AWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/WZ2NC5LE482W)
