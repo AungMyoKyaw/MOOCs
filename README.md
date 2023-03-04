@@ -13,6 +13,7 @@ markmap:
 
 - People and Soft Skills for Professional and Personal Success Specialization by IBM
   - [Collaborate Effectively for Professional Success](https://www.coursera.org/account/accomplishments/certificate/XYEPHPQZPCRK)
+  - [Present with Purpose: Create/Deliver Effective Presentations](https://www.coursera.org/account/accomplishments/certificate/ZUE9M3KPAJ6K)
 - Blockchain Specialization by UCI
   - [The Blockchain](https://www.coursera.org/account/accomplishments/certificate/6A8L86YAYGXV)
 
