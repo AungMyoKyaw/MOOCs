@@ -6,7 +6,7 @@ npx markmap-cli --no-toolbar  README.md -o dist/index.html
 
 markmaptitle="<title>Markmap<\/title>"
 title="<title>MOOCs | Aung Myo Kyaw<\/title>"
-openInNewTabAndLinkColorChange="a {\n  color: #000 !important;\n  text-decoration: none;\n}\n<\/style>\n<base target=\"_blank\"\/>"
+openInNewTabAndLinkColorChange="a {\n  color: #000 !important;\n  text-decoration: none;\n}\n#mindmap {\n  background-color: antiquewhite;\n  }\n<\/style>\n<base target=\"_blank\"\/>"
 
 mvTempToIndexHtml() {
   mv dist/temp.html dist/index.html
