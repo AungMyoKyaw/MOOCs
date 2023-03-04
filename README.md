@@ -11,18 +11,19 @@ markmap:
 
 ### in progress
 
-- People and Soft Skills for Professional and Personal Success Specialization
+- People and Soft Skills for Professional and Personal Success Specialization by IBM
   - [Collaborate Effectively for Professional Success](https://www.coursera.org/account/accomplishments/certificate/XYEPHPQZPCRK)
-- Blockchain
+- Blockchain Specialization by UCI
+  - [The Blockchain](https://www.coursera.org/account/accomplishments/certificate/6A8L86YAYGXV)
 
-### [AWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/WZ2NC5LE482W)
+### [AWS Fundamentals Specialization by AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/WZ2NC5LE482W)
 
 - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE)
 - [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/account/accomplishments/certificate/7NNZGQ4LWGE6)
 - [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/account/accomplishments/certificate/4UAE98GYK9ZL)
 - [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/account/accomplishments/certificate/YK6PX8ZWCNUY)
 
-### [Executive Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/CCA4K99FLBY9)
+### [Executive Data Science Specialization by Johns Hopkins University](https://www.coursera.org/account/accomplishments/specialization/certificate/CCA4K99FLBY9)
 
 - [A Crash Course in Data Science](https://www.coursera.org/account/accomplishments/certificate/R6RBPNAFLKK5)
 - [Building a Data Science Team](https://www.coursera.org/account/accomplishments/certificate/A39XE6CPCFRK)
