@@ -14,8 +14,13 @@ markmap:
 - People and Soft Skills for Professional and Personal Success Specialization by IBM
   - [Collaborate Effectively for Professional Success](https://www.coursera.org/account/accomplishments/certificate/XYEPHPQZPCRK)
   - [Present with Purpose: Create/Deliver Effective Presentations](https://www.coursera.org/account/accomplishments/certificate/ZUE9M3KPAJ6K)
+  - [Delivering Quality Work with Agility](https://www.coursera.org/account/accomplishments/certificate/QLDYNHU7GDCN)
+  - [Solving Problems with Creative and Critical Thinking](https://www.coursera.org/account/accomplishments/certificate/UNSACKS3P7AG)
 - Blockchain Specialization by UCI
   - [The Blockchain](https://www.coursera.org/account/accomplishments/certificate/6A8L86YAYGXV)
+  - [Cryptography and Hashing Overview](https://www.coursera.org/account/accomplishments/certificate/2D4JE4R89J43)
+- Career Success Specialization by UCI
+  - [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/account/accomplishments/certificate/D5YLNXLRV47V)
 
 ### [AWS Fundamentals Specialization by AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/WZ2NC5LE482W)
 
@@ -33,8 +38,6 @@ markmap:
 - [Executive Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/8VWJC599HLVE)
 
 ### [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/2UZ5KDXDHX98)
-
-### [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/account/accomplishments/certificate/D5YLNXLRV47V)
 
 ### [The Science of Success: What Researchers Know that You Should Know](https://www.coursera.org/account/accomplishments/certificate/3SCV47QQK7JE)
 
