@@ -16,6 +16,7 @@ markmap:
   - [Present with Purpose: Create/Deliver Effective Presentations](https://www.coursera.org/account/accomplishments/certificate/ZUE9M3KPAJ6K)
   - [Delivering Quality Work with Agility](https://www.coursera.org/account/accomplishments/certificate/QLDYNHU7GDCN)
   - [Solving Problems with Creative and Critical Thinking](https://www.coursera.org/account/accomplishments/certificate/UNSACKS3P7AG)
+  - [Developing Interpersonal Skills](https://www.coursera.org/account/accomplishments/certificate/PUUG3VU94B9R)
 - Blockchain Specialization by UCI
   - [The Blockchain](https://www.coursera.org/account/accomplishments/certificate/6A8L86YAYGXV)
   - [Cryptography and Hashing Overview](https://www.coursera.org/account/accomplishments/certificate/2D4JE4R89J43)
