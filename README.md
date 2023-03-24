@@ -21,6 +21,7 @@ markmap:
   - [The Blockchain](https://www.coursera.org/account/accomplishments/certificate/6A8L86YAYGXV)
   - [Cryptography and Hashing Overview](https://www.coursera.org/account/accomplishments/certificate/2D4JE4R89J43)
 - Career Success Specialization by UCI
+  - [Project Management: The Basics for Success](https://www.coursera.org/account/accomplishments/certificate/PY65L84X3CC3)
   - [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/account/accomplishments/certificate/D5YLNXLRV47V)
 
 ### [AWS Fundamentals Specialization by AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/WZ2NC5LE482W)
@@ -40,6 +41,6 @@ markmap:
 
 ### [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/2UZ5KDXDHX98)
 
-### [The Science of Success: What Researchers Know that You Should Know](https://www.coursera.org/account/accomplishments/certificate/3SCV47QQK7JE)
-
 ### [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/account/accomplishments/certificate/MBB63XT9RKNB)
+
+### [The Science of Success: What Researchers Know that You Should Know](https://www.coursera.org/account/accomplishments/certificate/3SCV47QQK7JE)
