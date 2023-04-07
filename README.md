@@ -11,12 +11,6 @@ markmap:
 
 ### in progress
 
-- People and Soft Skills for Professional and Personal Success Specialization by IBM
-  - [Collaborate Effectively for Professional Success](https://www.coursera.org/account/accomplishments/certificate/XYEPHPQZPCRK)
-  - [Present with Purpose: Create/Deliver Effective Presentations](https://www.coursera.org/account/accomplishments/certificate/ZUE9M3KPAJ6K)
-  - [Delivering Quality Work with Agility](https://www.coursera.org/account/accomplishments/certificate/QLDYNHU7GDCN)
-  - [Solving Problems with Creative and Critical Thinking](https://www.coursera.org/account/accomplishments/certificate/UNSACKS3P7AG)
-  - [Developing Interpersonal Skills](https://www.coursera.org/account/accomplishments/certificate/PUUG3VU94B9R)
 - Blockchain Specialization by UCI
   - [The Blockchain](https://www.coursera.org/account/accomplishments/certificate/6A8L86YAYGXV)
   - [Cryptography and Hashing Overview](https://www.coursera.org/account/accomplishments/certificate/2D4JE4R89J43)
@@ -38,6 +32,15 @@ markmap:
 - [Managing Data Analysis](https://www.coursera.org/account/accomplishments/certificate/QGHH247Y3HZJ)
 - [Data Science in Real Life](https://www.coursera.org/account/accomplishments/certificate/6J7XWCL3GY7Q)
 - [Executive Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/8VWJC599HLVE)
+
+### [People and Soft Skills for Professional and Personal Success Specialization by IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/B7NR4R4ETSJB)
+
+- [Collaborate Effectively for Professional Success](https://www.coursera.org/account/accomplishments/certificate/XYEPHPQZPCRK)
+- [Present with Purpose: Create/Deliver Effective Presentations](https://www.coursera.org/account/accomplishments/certificate/ZUE9M3KPAJ6K)
+- [Delivering Quality Work with Agility](https://www.coursera.org/account/accomplishments/certificate/QLDYNHU7GDCN)
+- [Solving Problems with Creative and Critical Thinking](https://www.coursera.org/account/accomplishments/certificate/UNSACKS3P7AG)
+- [Developing Interpersonal Skills](https://www.coursera.org/account/accomplishments/certificate/PUUG3VU94B9R)
+- [People and Soft Skills Assessment](https://www.coursera.org/account/accomplishments/certificate/ZHL2B5JT9S7G)
 
 ### [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/2UZ5KDXDHX98)
 
