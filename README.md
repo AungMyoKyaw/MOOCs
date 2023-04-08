@@ -8,7 +8,9 @@ markmap:
 # [Aung Myo Kyaw](https://www.aungmyokyaw.com)
 
 <div>
- [![MOOCs](https://img.shields.io/badge/MOOCs-0077B5?style=for-the-badge&logo=coursera&logoColor=white)](https://moocs.aungmyokyaw.com)
+  <a href="https://moocs.aungmyokyaw.com">
+    <img src="https://img.shields.io/badge/MOOCs-0077B5?style=for-the-badge&logo=coursera&logoColor=white">
+  </a>
 </div>
 
 ## [MOOCs](https://moocs.aungmyokyaw.com)
