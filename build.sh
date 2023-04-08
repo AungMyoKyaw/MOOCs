@@ -16,6 +16,6 @@ sed "s/$markmaptitle/$title/" dist/index.html > dist/temp.html
 
 mvTempToIndexHtml
 
-sed "s/\<\/style\>/$openInNewTabAndLinkColorChange/" dist/index.html > dist/temp.html
+sed "s/<\/style>/$openInNewTabAndLinkColorChange/" dist/index.html > dist/temp.html
 
 mvTempToIndexHtml
