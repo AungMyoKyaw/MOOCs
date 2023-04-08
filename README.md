@@ -14,6 +14,11 @@ markmap:
 - Blockchain Specialization by UCI
   - [The Blockchain](https://www.coursera.org/account/accomplishments/certificate/6A8L86YAYGXV)
   - [Cryptography and Hashing Overview](https://www.coursera.org/account/accomplishments/certificate/2D4JE4R89J43)
+  - [The Merkle Tree and Cryptocurrencies / waiting peer grading](#)
+  - [The Blockchain System / waiting peer grading](#)
+
+- Software Development Lifecycle Specialization by University of Minnesota
+
 - Career Success Specialization by UCI
   - [Project Management: The Basics for Success](https://www.coursera.org/account/accomplishments/certificate/PY65L84X3CC3)
   - [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/account/accomplishments/certificate/D5YLNXLRV47V)
