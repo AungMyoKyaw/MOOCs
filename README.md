@@ -7,9 +7,7 @@ markmap:
 
 # [Aung Myo Kyaw](https://www.aungmyokyaw.com)
 
-> [![MOOCs](https://img.shields.io/badge/Coursera-0077B5?style=for-the-badge&logo=coursera&logoColor=white)](https://moocs.aungmyokyaw.com)
-
-## MOOCs
+## [![MOOCs](https://img.shields.io/badge/MOOCs-0077B5?style=for-the-badge&logo=coursera&logoColor=white)](https://moocs.aungmyokyaw.com)
 
 ### in progress
 
