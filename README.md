@@ -17,12 +17,6 @@ markmap:
 
 ### in progress
 
-- Blockchain Specialization by UCI
-  - [The Blockchain](https://www.coursera.org/account/accomplishments/certificate/6A8L86YAYGXV)
-  - [Cryptography and Hashing Overview](https://www.coursera.org/account/accomplishments/certificate/2D4JE4R89J43)
-  - [The Merkle Tree and Cryptocurrencies / waiting peer grading](#)
-  - [The Blockchain System / waiting peer grading](#)
-
 - Software Development Lifecycle Specialization by University of Minnesota
 
 - Career Success Specialization by UCI
@@ -43,6 +37,13 @@ markmap:
 - [Managing Data Analysis](https://www.coursera.org/account/accomplishments/certificate/QGHH247Y3HZJ)
 - [Data Science in Real Life](https://www.coursera.org/account/accomplishments/certificate/6J7XWCL3GY7Q)
 - [Executive Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/8VWJC599HLVE)
+
+### [Blockchain Specialization by UCI](https://www.coursera.org/account/accomplishments/specialization/certificate/ZJQWD2GKVMWZ)
+
+- [The Blockchain](https://www.coursera.org/account/accomplishments/certificate/6A8L86YAYGXV)
+- [Cryptography and Hashing Overview](https://www.coursera.org/account/accomplishments/certificate/2D4JE4R89J43)
+- [The Merkle Tree and Cryptocurrencies](https://www.coursera.org/account/accomplishments/certificate/PUMVQXTNLLRD)
+- [The Blockchain System](https://www.coursera.org/account/accomplishments/certificate/CKLJC3UKJNWS)
 
 ### [People and Soft Skills for Professional and Personal Success Specialization by IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/B7NR4R4ETSJB)
 
