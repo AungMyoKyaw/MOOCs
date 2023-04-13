@@ -18,6 +18,7 @@ markmap:
 ### in progress
 
 - Software Development Lifecycle Specialization by University of Minnesota
+  - [Software Development Processes and Methodologies](https://www.coursera.org/account/accomplishments/certificate/SD2EMT2SRLCG)
 
 - Career Success Specialization by UCI
   - [Project Management: The Basics for Success](https://www.coursera.org/account/accomplishments/certificate/PY65L84X3CC3)
