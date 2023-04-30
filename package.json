@@ -1,0 +1,22 @@
+{
+  "name": "moocs",
+  "version": "1.0.0",
+  "description": "moocs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AungMyoKyaw/MOOCs.git"
+  },
+  "author": "Aung Myo Kyaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AungMyoKyaw/MOOCs/issues"
+  },
+  "homepage": "https://github.com/AungMyoKyaw/MOOCs#readme",
+  "dependencies": {
+    "puppeteer": "^19.11.1"
+  }
+}
