@@ -21,14 +21,16 @@ markmap:
 
 ### in progress
 
-- Software Development Lifecycle Specialization by University of Minnesota
-  - [Software Development Processes and Methodologies](https://www.coursera.org/account/accomplishments/certificate/SD2EMT2SRLCG)
-  - [Agile Software Development](https://www.coursera.org/account/accomplishments/certificate/FACMLKZAZUCL)
-  - [Lean Software Development](https://www.coursera.org/account/accomplishments/certificate/WABZAU3U3CAM)
-
 - Career Success Specialization by UCI
   - [Project Management: The Basics for Success](https://www.coursera.org/account/accomplishments/certificate/PY65L84X3CC3)
   - [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/account/accomplishments/certificate/D5YLNXLRV47V)
+
+### [Software Development Lifecycle Specialization by University of Minnesota](https://www.coursera.org/account/accomplishments/specialization/certificate/H2UZFJYXWN7W)
+
+- [Software Development Processes and Methodologies](https://www.coursera.org/account/accomplishments/certificate/SD2EMT2SRLCG)
+- [Agile Software Development](https://www.coursera.org/account/accomplishments/certificate/FACMLKZAZUCL)
+- [Lean Software Development](https://www.coursera.org/account/accomplishments/certificate/WABZAU3U3CAM)
+- [Engineering Practices for Building Quality Software](https://www.coursera.org/account/accomplishments/certificate/WJCEX3BPKADK)
 
 ### [AWS Fundamentals Specialization by AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/WZ2NC5LE482W)
 
