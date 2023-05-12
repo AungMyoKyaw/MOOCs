@@ -32,21 +32,6 @@ markmap:
 - [Lean Software Development](https://www.coursera.org/account/accomplishments/certificate/WABZAU3U3CAM)
 - [Engineering Practices for Building Quality Software](https://www.coursera.org/account/accomplishments/certificate/WJCEX3BPKADK)
 
-### [AWS Fundamentals Specialization by AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/WZ2NC5LE482W)
-
-- [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE)
-- [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/account/accomplishments/certificate/7NNZGQ4LWGE6)
-- [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/account/accomplishments/certificate/4UAE98GYK9ZL)
-- [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/account/accomplishments/certificate/YK6PX8ZWCNUY)
-
-### [Executive Data Science Specialization by Johns Hopkins University](https://www.coursera.org/account/accomplishments/specialization/certificate/CCA4K99FLBY9)
-
-- [A Crash Course in Data Science](https://www.coursera.org/account/accomplishments/certificate/R6RBPNAFLKK5)
-- [Building a Data Science Team](https://www.coursera.org/account/accomplishments/certificate/A39XE6CPCFRK)
-- [Managing Data Analysis](https://www.coursera.org/account/accomplishments/certificate/QGHH247Y3HZJ)
-- [Data Science in Real Life](https://www.coursera.org/account/accomplishments/certificate/6J7XWCL3GY7Q)
-- [Executive Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/8VWJC599HLVE)
-
 ### [Blockchain Specialization by UCI](https://www.coursera.org/account/accomplishments/specialization/certificate/ZJQWD2GKVMWZ)
 
 - [The Blockchain](https://www.coursera.org/account/accomplishments/certificate/6A8L86YAYGXV)
@@ -63,8 +48,23 @@ markmap:
 - [Developing Interpersonal Skills](https://www.coursera.org/account/accomplishments/certificate/PUUG3VU94B9R)
 - [People and Soft Skills Assessment](https://www.coursera.org/account/accomplishments/certificate/ZHL2B5JT9S7G)
 
-### [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/2UZ5KDXDHX98)
+### [Executive Data Science Specialization by Johns Hopkins University](https://www.coursera.org/account/accomplishments/specialization/certificate/CCA4K99FLBY9)
+
+- [A Crash Course in Data Science](https://www.coursera.org/account/accomplishments/certificate/R6RBPNAFLKK5)
+- [Building a Data Science Team](https://www.coursera.org/account/accomplishments/certificate/A39XE6CPCFRK)
+- [Managing Data Analysis](https://www.coursera.org/account/accomplishments/certificate/QGHH247Y3HZJ)
+- [Data Science in Real Life](https://www.coursera.org/account/accomplishments/certificate/6J7XWCL3GY7Q)
+- [Executive Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/8VWJC599HLVE)
+
+### [AWS Fundamentals Specialization by AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/WZ2NC5LE482W)
+
+- [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE)
+- [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/account/accomplishments/certificate/7NNZGQ4LWGE6)
+- [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/account/accomplishments/certificate/4UAE98GYK9ZL)
+- [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/account/accomplishments/certificate/YK6PX8ZWCNUY)
+
+### [The Science of Success: What Researchers Know that You Should Know](https://www.coursera.org/account/accomplishments/certificate/3SCV47QQK7JE)
 
 ### [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/account/accomplishments/certificate/MBB63XT9RKNB)
 
-### [The Science of Success: What Researchers Know that You Should Know](https://www.coursera.org/account/accomplishments/certificate/3SCV47QQK7JE)
+### [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/account/accomplishments/certificate/2UZ5KDXDHX98)
