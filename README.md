@@ -22,8 +22,13 @@ markmap:
 ### in progress
 
 - Career Success Specialization by UCI
+
   - [Project Management: The Basics for Success](https://www.coursera.org/account/accomplishments/certificate/PY65L84X3CC3)
   - [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/account/accomplishments/certificate/D5YLNXLRV47V)
+  - [Finance for Non-Financial Professionals](https://www.coursera.org/account/accomplishments/certificate/M2NCWTW8HLZC)
+
+- AWS Cloud Solutions Architect
+  - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE)
 
 ### [Software Development Lifecycle Specialization by University of Minnesota](https://www.coursera.org/account/accomplishments/specialization/certificate/H2UZFJYXWN7W)
 
