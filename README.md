@@ -26,6 +26,7 @@ markmap:
 - [Project Management: The Basics for Success](https://www.coursera.org/account/accomplishments/certificate/PY65L84X3CC3)
 - [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/account/accomplishments/certificate/D5YLNXLRV47V)
 - [Finance for Non-Financial Professionals](https://www.coursera.org/account/accomplishments/certificate/M2NCWTW8HLZC)
+- [Communication in the 21st Century Workplace](https://www.coursera.org/account/accomplishments/certificate/XGHP5MKFDYVA)
 
 #### [AWS Cloud Solutions Architect Specialization by AWS](#)
 
