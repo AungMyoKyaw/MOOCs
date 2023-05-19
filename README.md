@@ -31,6 +31,7 @@ markmap:
 #### [AWS Cloud Solutions Architect Specialization by AWS](#)
 
 - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE)
+- [Architecting Solutions on AWS](https://www.coursera.org/account/accomplishments/certificate/BLYG7X4MNKXQ)
 
 ### [Software Development Lifecycle Specialization by University of Minnesota](https://www.coursera.org/account/accomplishments/specialization/certificate/H2UZFJYXWN7W)
 
