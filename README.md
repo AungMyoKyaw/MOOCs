@@ -1,7 +1,7 @@
 ---
 markmap:
   embedAssets: true
-  maxWidth: 400
+  maxWidth: 450
   colorFreezeLevel: 3
 ---
 
@@ -44,7 +44,7 @@ markmap:
 
 ---
 
-#### [AWS Cloud Solutions Architect Specialization by AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/NGP2326FQRPB)
+### [AWS Cloud Solutions Architect Specialization by AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/NGP2326FQRPB)
 
 - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE)
 - [Architecting Solutions on AWS](https://www.coursera.org/account/accomplishments/certificate/BLYG7X4MNKXQ)
