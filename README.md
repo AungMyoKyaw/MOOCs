@@ -19,19 +19,37 @@ markmap:
 
 ## [MOOCs](https://moocs.aungmyokyaw.com)
 
-### in progress
+### in progress specializations
 
 #### [Career Success Specialization by UCI](#)
+
+##### [Completed Courses](#)
 
 - [Project Management: The Basics for Success](https://www.coursera.org/account/accomplishments/certificate/PY65L84X3CC3)
 - [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/account/accomplishments/certificate/D5YLNXLRV47V)
 - [Finance for Non-Financial Professionals](https://www.coursera.org/account/accomplishments/certificate/M2NCWTW8HLZC)
 - [Communication in the 21st Century Workplace](https://www.coursera.org/account/accomplishments/certificate/XGHP5MKFDYVA)
 
-#### [AWS Cloud Solutions Architect Specialization by AWS](#)
+#### [Meta Front-End Developer Specialization](#)
+
+##### [Completed Courses](#)
+
+- [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/certificate/3ZXBQMYRVE4J)
+- [HTML and CSS in depth](https://www.coursera.org/account/accomplishments/certificate/UZ8E4TBRTN7M)
+- [React Basics](https://www.coursera.org/account/accomplishments/certificate/CTXJVSP4WNPP)
+- [Advanced React](https://www.coursera.org/account/accomplishments/certificate/G9CCMJEK4RRJ)
+- [Programming with JavaScript](https://www.coursera.org/account/accomplishments/certificate/99AV9256857Z)
+- [Version Control](https://www.coursera.org/account/accomplishments/certificate/ZGLGS7UQPMVE)
+- [Principles of UX/UI Design](https://www.coursera.org/account/accomplishments/certificate/UUS2L4B8RPT3)
+
+---
+
+#### [AWS Cloud Solutions Architect Specialization by AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/NGP2326FQRPB)
 
 - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE)
 - [Architecting Solutions on AWS](https://www.coursera.org/account/accomplishments/certificate/BLYG7X4MNKXQ)
+- [Introduction to Designing Data Lakes on AWS](https://www.coursera.org/account/accomplishments/certificate/FTB775T8ZU8D)
+- [Exam Prep: AWS Certified Solutions Architect - Associate](https://www.coursera.org/account/accomplishments/certificate/83LV6G6VPGPH)
 
 ### [Software Development Lifecycle Specialization by University of Minnesota](https://www.coursera.org/account/accomplishments/specialization/certificate/H2UZFJYXWN7W)
 
