@@ -14,7 +14,9 @@ markmap:
 </div>
 
 <p align="center">
-  <img src="./assets/screenshot.png" alt="Aung Myo Kyaw | MOOCs">
+  <a href="https://moocs.aungmyokyaw.com">
+    <img src="./assets/screenshot.png" alt="Aung Myo Kyaw | MOOCs">
+  </a>
 </p>
 
 ## [MOOCs](https://moocs.aungmyokyaw.com)
