@@ -43,6 +43,7 @@ markmap:
 - [Programming with JavaScript](https://www.coursera.org/account/accomplishments/certificate/99AV9256857Z)
 - [Version Control](https://www.coursera.org/account/accomplishments/certificate/ZGLGS7UQPMVE)
 - [Principles of UX/UI Design](https://www.coursera.org/account/accomplishments/certificate/UUS2L4B8RPT3)
+- [Front-End Developer Capstone](https://www.coursera.org/account/accomplishments/certificate/GSPNXQK23TDB)
 
 ---
 
