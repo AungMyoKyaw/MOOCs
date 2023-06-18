@@ -32,9 +32,9 @@ markmap:
 - [Finance for Non-Financial Professionals](https://www.coursera.org/account/accomplishments/certificate/M2NCWTW8HLZC)
 - [Communication in the 21st Century Workplace](https://www.coursera.org/account/accomplishments/certificate/XGHP5MKFDYVA)
 
-#### [Meta Front-End Developer Specialization](#)
+---
 
-##### [Completed Courses](#)
+#### [Meta Front-End Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/X5EVPVJSCPFH)
 
 - [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/certificate/3ZXBQMYRVE4J)
 - [HTML and CSS in depth](https://www.coursera.org/account/accomplishments/certificate/UZ8E4TBRTN7M)
@@ -44,8 +44,8 @@ markmap:
 - [Version Control](https://www.coursera.org/account/accomplishments/certificate/ZGLGS7UQPMVE)
 - [Principles of UX/UI Design](https://www.coursera.org/account/accomplishments/certificate/UUS2L4B8RPT3)
 - [Front-End Developer Capstone](https://www.coursera.org/account/accomplishments/certificate/GSPNXQK23TDB)
+- [Coding Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/DHWSJ3JJKMEV)
 
----
 
 ### [AWS Cloud Solutions Architect Specialization by AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/NGP2326FQRPB)
 
