@@ -1,8 +1,10 @@
 #!/usr/bin/env bash
 
-npx markmap-cli --no-toolbar --no-open README.md -o dist/index.html
-
 npm i
+
+npm run format
+
+npx markmap-cli --no-toolbar --no-open README.md -o dist/index.html
 
 node cheerio.js
 
