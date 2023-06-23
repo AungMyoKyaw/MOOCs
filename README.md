@@ -42,6 +42,8 @@ markmap:
 
 ---
 
+### [Prompt Engineering for ChatGPT by Vanderbilt University](https://www.coursera.org/account/accomplishments/certificate/TWXADA5XBUQR)
+
 ### [Meta Front-End Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/X5EVPVJSCPFH)
 
 - [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/certificate/3ZXBQMYRVE4J)
