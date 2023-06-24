@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.markmap {
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 500 !important;
+  width: 100vw;
+  height: 100vh;
+  background-color: antiquewhite;
+}
+
+a {
+  color: #000 !important;
+  text-decoration: none;
+}
+a:hover {
+  color: #2c4c9c !important;
+  text-decoration: underline;
+}

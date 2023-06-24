@@ -1,8 +1,8 @@
 ---
 markmap:
-  embedAssets: true
-  maxWidth: 450
   colorFreezeLevel: 3
+  autoFit: true
+  embedAssets: true
 ---
 
 # [Aung Myo Kyaw](https://www.aungmyokyaw.com)

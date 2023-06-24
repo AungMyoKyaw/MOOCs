@@ -14,3 +14,9 @@ screenshot() {
 }
 
 screenshot
+
+favicon() {
+  cp ./assets/favicon.png ./dist/favicon.png
+}
+
+favicon
