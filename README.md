@@ -3,6 +3,8 @@ markmap:
   colorFreezeLevel: 3
   autoFit: true
   embedAssets: true
+  pan: false
+  zoom: false
 ---
 
 # [Aung Myo Kyaw](https://www.aungmyokyaw.com)
