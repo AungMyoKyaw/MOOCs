@@ -19,6 +19,7 @@ $('head').prepend('<meta name="twitter:url" content="https://moocs.aungmyokyaw.c
 $('head').prepend('<meta name="twitter:image" content="/screenshot.png" />');
 $('head').prepend('<meta property="og:image:width" content="5120" />');
 $('head').prepend('<meta property="og:image:height" content="3200" />');
+$('head').prepend('<base target="_blank" />');
 
 $('head').prepend(
   '<style>* {margin: 0;padding: 0;}#mindmap {display: block;width: 100vw;height: 100vh;}a {color: #000 !important;text-decoration: none;}a:hover {color: #2c4c9c !important;text-decoration: underline;}#mindmap {background-color: antiquewhite;}</style>'
