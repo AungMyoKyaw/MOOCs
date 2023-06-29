@@ -41,6 +41,7 @@ markmap:
 - [Introduction to Back-End Development](https://www.coursera.org/account/accomplishments/certificate/L3B7UAL2VX2S)
 - [Version Control](https://www.coursera.org/account/accomplishments/certificate/ZGLGS7UQPMVE)
 - [Coding Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/DHWSJ3JJKMEV)
+- [Programming in Python](https://www.coursera.org/account/accomplishments/certificate/SCUDHLQRHSCJ)
 
 ---
 
