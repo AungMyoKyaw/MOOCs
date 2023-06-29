@@ -33,6 +33,7 @@ markmap:
 - [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/account/accomplishments/certificate/D5YLNXLRV47V)
 - [Finance for Non-Financial Professionals](https://www.coursera.org/account/accomplishments/certificate/M2NCWTW8HLZC)
 - [Communication in the 21st Century Workplace](https://www.coursera.org/account/accomplishments/certificate/XGHP5MKFDYVA)
+- [High-Impact Business Writing](https://www.coursera.org/account/accomplishments/certificate/2TMS9LH5BTTL)
 
 #### [Meta Back-End Developer Specialization](#)
 
