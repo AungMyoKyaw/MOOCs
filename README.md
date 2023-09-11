@@ -47,6 +47,8 @@ markmap:
 
 ---
 
+### [Applied Data Science Lab by WorldQuant University](https://www.credly.com/badges/72d4d407-f65d-4df9-8cc7-156aeb74bfbb)
+
 ### [Prompt Engineering for ChatGPT by Vanderbilt University](https://www.coursera.org/account/accomplishments/certificate/TWXADA5XBUQR)
 
 ### [Meta Front-End Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/X5EVPVJSCPFH)
