@@ -47,6 +47,13 @@ markmap:
 
 ---
 
+### [DevOps on AWS by AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/ZABFPBZJTSA6)
+
+- [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE)
+- [DevOps on AWS: Code, Build, and Test](https://www.coursera.org/account/accomplishments/certificate/2GH4UJGV3VDH)
+- [DevOps on AWS: Release and Deploy](https://www.coursera.org/account/accomplishments/certificate/7QNHSQP44B3V)
+- [DevOps on AWS: Operate and Monitor](https://www.coursera.org/account/accomplishments/certificate/6D8HLEQ2M696)
+
 ### [ IELTS Preparation by University of California, Irvine](https://www.coursera.org/account/accomplishments/specialization/certificate/B7EP3UEJKKP4)
 
 - [IELTS Writing Section Skills Mastery](https://www.coursera.org/account/accomplishments/certificate/ZJESXLZCC5QS)
