@@ -23,29 +23,13 @@ markmap:
 
 ## [MOOCs](https://moocs.aungmyokyaw.com)
 
-### [in progress specializations](#)
+### [Exam Prep: AWS Certified Cloud Practitioner Foundations by AWS](https://www.coursera.org/account/accomplishments/certificate/5L8B7DTJRTJM)
 
-#### [Career Success Specialization by UCI](#)
+### [Starting Your Career with AWS Cloud by AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/9JWTJ3TCB4HQ)
 
-##### [Completed Courses](#)
-
-- [Project Management: The Basics for Success](https://www.coursera.org/account/accomplishments/certificate/PY65L84X3CC3)
-- [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/account/accomplishments/certificate/D5YLNXLRV47V)
-- [Finance for Non-Financial Professionals](https://www.coursera.org/account/accomplishments/certificate/M2NCWTW8HLZC)
-- [Communication in the 21st Century Workplace](https://www.coursera.org/account/accomplishments/certificate/XGHP5MKFDYVA)
-- [High-Impact Business Writing](https://www.coursera.org/account/accomplishments/certificate/2TMS9LH5BTTL)
-
-#### [Meta Back-End Developer Specialization](#)
-
-##### [Completed Courses](#)
-
-- [Introduction to Back-End Development](https://www.coursera.org/account/accomplishments/certificate/L3B7UAL2VX2S)
-- [Version Control](https://www.coursera.org/account/accomplishments/certificate/ZGLGS7UQPMVE)
-- [Coding Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/DHWSJ3JJKMEV)
-- [Programming in Python](https://www.coursera.org/account/accomplishments/certificate/SCUDHLQRHSCJ)
-- [Introduction to Databases for Back-End Development](https://www.coursera.org/account/accomplishments/certificate/SK3UDFBK4APY)
-
----
+- [Introduction to AWS Cloud Careers](https://www.coursera.org/account/accomplishments/certificate/H9F2NQQDCTGY)
+- [AWS Services Overview for IT Professionals](https://www.coursera.org/account/accomplishments/certificate/XHKW6EH2KYMY)
+- [Hands-on with AWS for IT Professionals](https://www.coursera.org/account/accomplishments/certificate/P8UDMHYHUGGK)
 
 ### [DevOps on AWS by AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/ZABFPBZJTSA6)
 
