@@ -23,6 +23,8 @@ markmap:
 
 ## [MOOCs](https://moocs.aungmyokyaw.com)
 
+### [Generative AI with Large Language Models by DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/4XL2AJ4C3WBF)
+
 ### [Exam Prep: AWS Certified Cloud Practitioner Foundations by AWS](https://www.coursera.org/account/accomplishments/certificate/5L8B7DTJRTJM)
 
 ### [Starting Your Career with AWS Cloud by AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/9JWTJ3TCB4HQ)
