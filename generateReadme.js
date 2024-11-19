@@ -9,7 +9,7 @@ const inputData = JSON.parse(fs.readFileSync(inputPath, 'utf-8'));
 
 // Generate README content
 const generateReadme = (data) => {
-    let readmeContent = `
+  let readmeContent = `
 ---
 markmap:
   colorFreezeLevel: 3
@@ -37,21 +37,21 @@ markmap:
 
 `;
 
-    data.items.forEach((item) => {
-        if (item.type === 'Course') {
-            // Single course
-            readmeContent += `### [${item.courseTitle}](${item.certificateLink})\n\n`;
-        } else if (item.type === 'Bundle') {
-            // Bundle with sub-courses
-            readmeContent += `### [${item.courseTitle}](${item.certificateLink})\n\n`;
-            item.courses.forEach((subCourse) => {
-                readmeContent += `- [${subCourse.title}](${subCourse.certificateLink})\n`;
-            });
-            readmeContent += '\n';
-        }
-    });
+  data.items.forEach((item) => {
+    if (item.type === 'Course') {
+      // Single course
+      readmeContent += `### [${item.courseTitle}](${item.certificateLink})\n\n`;
+    } else if (item.type === 'Bundle') {
+      // Bundle with sub-courses
+      readmeContent += `### [${item.courseTitle}](${item.certificateLink})\n\n`;
+      item.courses.forEach((subCourse) => {
+        readmeContent += `- [${subCourse.title}](${subCourse.certificateLink})\n`;
+      });
+      readmeContent += '\n';
+    }
+  });
 
-    return readmeContent.trim();
+  return readmeContent.trim();
 };
 
 // Generate and save the README content
