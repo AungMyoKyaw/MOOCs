@@ -20,3 +20,9 @@ favicon() {
 }
 
 favicon
+
+copyMOOCsData() {
+  cp ./moocsData.json ./dist/moocsData.json
+}
+
+copyMOOCsData
