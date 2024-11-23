@@ -23,6 +23,40 @@ markmap:
 
 ## [MOOCs](https://moocs.aungmyokyaw.com)
 
+### [AWS Cloud Technology Consultant Professional Certificate](#)
+
+- [Introduction to Information Technology and AWS Cloud](https://www.coursera.org/account/accomplishments/certificate/J7YVW64D3USO)
+- [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE)
+
+### [Improve Your English Communication Skills Specialization](#)
+
+- [Write Professional Emails in English](https://www.coursera.org/account/accomplishments/certificate/14Y04XHBIKA7)
+
+### [Google IT Support Professional Certificate](#)
+
+- [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/IBX63B5LWMPJ)
+- [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/certificate/SVO1T56EAQFX)
+
+### [Software Design and Architecture Specialization](#)
+
+- [Object-Oriented Design](https://www.coursera.org/account/accomplishments/certificate/JE7YQHW54EUJ)
+
+### [Meta Back-End Developer Professional Certificate](#)
+
+- [Introduction to Back-End Development](https://www.coursera.org/account/accomplishments/certificate/L3B7UAL2VX2S)
+- [Programming in Python](https://www.coursera.org/account/accomplishments/certificate/SCUDHLQRHSCJ)
+- [Version Control](https://www.coursera.org/account/accomplishments/certificate/ZGLGS7UQPMVE)
+- [Introduction to Databases for Back-End Development](https://www.coursera.org/account/accomplishments/certificate/SK3UDFBK4APY)
+- [Coding Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/DHWSJ3JJKMEV)
+
+### [Career Success Specialization](#)
+
+- [Project Management: The Basics for Success](https://www.coursera.org/account/accomplishments/certificate/PY65L84X3CC3)
+- [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/account/accomplishments/certificate/D5YLNXLRV47V)
+- [Finance for Non-Financial Professionals](https://www.coursera.org/account/accomplishments/certificate/M2NCWTW8HLZC)
+- [Communication in the 21st Century Workplace](https://www.coursera.org/account/accomplishments/certificate/XGHP5MKFDYVA)
+- [High-Impact Business Writing](https://www.coursera.org/account/accomplishments/certificate/2TMS9LH5BTTL)
+
 ### [Generative AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/Z6QW8NAPQBZA)
 
 ### [Generative AI with Large Language Models by DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/4XL2AJ4C3WBF)

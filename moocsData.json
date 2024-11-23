@@ -1,6 +1,119 @@
 {
-  "total": 29,
+  "total": 0,
   "items": [
+    {
+      "courseTitle": "AWS Cloud Technology Consultant Professional Certificate",
+      "type": "Bundle",
+      "status": "In Progress",
+      "certificateLink": "#",
+      "courses": [
+        {
+          "title": "Introduction to Information Technology and AWS Cloud",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/J7YVW64D3USO"
+        },
+        {
+          "title": "AWS Cloud Technical Essentials",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE"
+        }
+      ]
+    },
+    {
+      "courseTitle": "Improve Your English Communication Skills Specialization",
+      "type": "Bundle",
+      "status": "In Progress",
+      "certificateLink": "#",
+      "courses": [
+        {
+          "title": "Write Professional Emails in English",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/14Y04XHBIKA7"
+        }
+      ]
+    },
+    {
+      "courseTitle": "Google IT Support Professional Certificate",
+      "type": "Bundle",
+      "status": "In Progress",
+      "certificateLink": "#",
+      "courses": [
+        {
+          "title": "Technical Support Fundamentals",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/IBX63B5LWMPJ"
+        },
+        {
+          "title": "The Bits and Bytes of Computer Networking",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/SVO1T56EAQFX"
+        }
+      ]
+    },
+
+    {
+      "courseTitle": "Software Design and Architecture Specialization",
+      "type": "Bundle",
+      "status": "In Progress",
+      "certificateLink": "#",
+      "courses": [
+        {
+          "title": "Object-Oriented Design",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/JE7YQHW54EUJ"
+        }
+      ]
+    },
+    {
+      "courseTitle": "Meta Back-End Developer Professional Certificate",
+      "type": "Bundle",
+      "status": "In Progress",
+      "certificateLink": "#",
+      "courses": [
+        {
+          "title": "Introduction to Back-End Development",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/L3B7UAL2VX2S"
+        },
+        {
+          "title": "Programming in Python",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/SCUDHLQRHSCJ"
+        },
+        {
+          "title": "Version Control",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/ZGLGS7UQPMVE"
+        },
+        {
+          "title": "Introduction to Databases for Back-End Development",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/SK3UDFBK4APY"
+        },
+        {
+          "title": "Coding Interview Preparation",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/DHWSJ3JJKMEV"
+        }
+      ]
+    },
+    {
+      "courseTitle": "Career Success Specialization",
+      "type": "Bundle",
+      "status": "In Progress",
+      "certificateLink": "#",
+      "courses": [
+        {
+          "title": "Project Management: The Basics for Success",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/PY65L84X3CC3"
+        },
+        {
+          "title": "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/D5YLNXLRV47V"
+        },
+        {
+          "title": "Finance for Non-Financial Professionals",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/M2NCWTW8HLZC"
+        },
+        {
+          "title": "Communication in the 21st Century Workplace",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/XGHP5MKFDYVA"
+        },
+        {
+          "title": "High-Impact Business Writing",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/2TMS9LH5BTTL"
+        }
+      ]
+    },
     {
       "courseTitle": "Generative AI for Everyone",
       "type": "Course",
