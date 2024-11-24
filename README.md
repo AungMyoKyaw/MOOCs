@@ -23,6 +23,19 @@ markmap:
 
 ## [MOOCs](https://moocs.aungmyokyaw.com)
 
+### [Generative AI for Software Development Skill Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/IIVT58YEY97P)
+
+- [Introduction to Generative AI for Software Development](https://www.coursera.org/account/accomplishments/certificate/1KFB2LKG7QBX)
+- [Team Software Engineering with AI](https://www.coursera.org/account/accomplishments/certificate/U6J98JGB4H5T)
+- [AI-Powered Software and System Design](https://www.coursera.org/account/accomplishments/certificate/JMGY5AV71G8X)
+
+### [Web Applications for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RHZNGIL8I4FA)
+
+- [Building Web Applications in PHP](https://www.coursera.org/account/accomplishments/certificate/KJN81XAZWGC4)
+- [Introduction to Structured Query Language (SQL)](https://www.coursera.org/account/accomplishments/certificate/1DB3XZANZGE6)
+- [Building Database Applications in PHP](https://www.coursera.org/account/accomplishments/certificate/CK6G5AG0UC7O)
+- [JavaScript, jQuery, and JSON](https://www.coursera.org/account/accomplishments/certificate/9KMTI5ZW7NP4)
+
 ### [AWS Cloud Technology Consultant Professional Certificate ⏳](#)
 
 - [Introduction to Information Technology and AWS Cloud](https://www.coursera.org/account/accomplishments/certificate/J7YVW64D3USO)
@@ -75,6 +88,12 @@ markmap:
 - [DevOps on AWS: Code, Build, and Test](https://www.coursera.org/account/accomplishments/certificate/2GH4UJGV3VDH)
 - [DevOps on AWS: Release and Deploy](https://www.coursera.org/account/accomplishments/certificate/7QNHSQP44B3V)
 - [DevOps on AWS: Operate and Monitor](https://www.coursera.org/account/accomplishments/certificate/6D8HLEQ2M696)
+
+### [TOEFL Preparation Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BA3GT7GYU533)
+
+- [TOEFL Reading and Listening Sections Skills Mastery](https://www.coursera.org/account/accomplishments/certificate/JBZZW394SBJQ)
+- [TOEFL Speaking and Writing Sections Skills Mastery](https://www.coursera.org/account/accomplishments/certificate/5ZMC2PPKKRE7)
+- [TOEFL Test-Taking Strategies](https://www.coursera.org/account/accomplishments/certificate/CEDEZZ4QSBWW)
 
 ### [IELTS Preparation by University of California, Irvine](https://www.coursera.org/account/accomplishments/specialization/certificate/B7EP3UEJKKP4)
 

@@ -2,6 +2,50 @@
   "total": 0,
   "items": [
     {
+      "courseTitle": "Generative AI for Software Development Skill Certificate",
+      "type": "Bundle",
+      "status": "Completed",
+      "certificateLink": "https://www.coursera.org/account/accomplishments/specialization/certificate/IIVT58YEY97P",
+      "courses": [
+        {
+          "title": "Introduction to Generative AI for Software Development",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/1KFB2LKG7QBX"
+        },
+        {
+          "title": "Team Software Engineering with AI",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/U6J98JGB4H5T"
+        },
+        {
+          "title": "AI-Powered Software and System Design",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/JMGY5AV71G8X"
+        }
+      ]
+    },
+    {
+      "courseTitle": "Web Applications for Everybody Specialization",
+      "type": "Bundle",
+      "status": "Completed",
+      "certificateLink": "https://www.coursera.org/account/accomplishments/specialization/certificate/RHZNGIL8I4FA",
+      "courses": [
+        {
+          "title": "Building Web Applications in PHP",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/KJN81XAZWGC4"
+        },
+        {
+          "title": "Introduction to Structured Query Language (SQL)",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/1DB3XZANZGE6"
+        },
+        {
+          "title": "Building Database Applications in PHP",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/CK6G5AG0UC7O"
+        },
+        {
+          "title": "JavaScript, jQuery, and JSON",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/9KMTI5ZW7NP4"
+        }
+      ]
+    },
+    {
       "courseTitle": "AWS Cloud Technology Consultant Professional Certificate ⏳",
       "type": "Bundle",
       "status": "In Progress",
@@ -173,6 +217,26 @@
         {
           "title": "DevOps on AWS: Operate and Monitor",
           "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/6D8HLEQ2M696"
+        }
+      ]
+    },
+    {
+      "courseTitle": "TOEFL Preparation Specialization",
+      "type": "Bundle",
+      "status": "Completed",
+      "certificateLink": "https://www.coursera.org/account/accomplishments/specialization/certificate/BA3GT7GYU533",
+      "courses": [
+        {
+          "title": "TOEFL Reading and Listening Sections Skills Mastery",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/JBZZW394SBJQ"
+        },
+        {
+          "title": "TOEFL Speaking and Writing Sections Skills Mastery",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/5ZMC2PPKKRE7"
+        },
+        {
+          "title": "TOEFL Test-Taking Strategies",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/CEDEZZ4QSBWW"
         }
       ]
     },
