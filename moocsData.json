@@ -22,6 +22,26 @@
       ]
     },
     {
+      "courseTitle": "AWS Cloud Technology Consultant Professional Certificate ⏳",
+      "type": "Bundle",
+      "status": "In Progress",
+      "certificateLink": "#",
+      "courses": [
+        {
+          "title": "Introduction to Information Technology and AWS Cloud",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/J7YVW64D3USO"
+        },
+        {
+          "title": "AWS Cloud Technical Essentials",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE"
+        },
+        {
+          "title": "Providing Technical Support for AWS Workloads",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/27NM6MWC2IQ2"
+        }
+      ]
+    },
+    {
       "courseTitle": "Web Applications for Everybody Specialization",
       "type": "Bundle",
       "status": "Completed",
@@ -42,22 +62,6 @@
         {
           "title": "JavaScript, jQuery, and JSON",
           "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/9KMTI5ZW7NP4"
-        }
-      ]
-    },
-    {
-      "courseTitle": "AWS Cloud Technology Consultant Professional Certificate ⏳",
-      "type": "Bundle",
-      "status": "In Progress",
-      "certificateLink": "#",
-      "courses": [
-        {
-          "title": "Introduction to Information Technology and AWS Cloud",
-          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/J7YVW64D3USO"
-        },
-        {
-          "title": "AWS Cloud Technical Essentials",
-          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE"
         }
       ]
     },

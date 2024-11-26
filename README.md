@@ -29,17 +29,18 @@ markmap:
 - [Team Software Engineering with AI](https://www.coursera.org/account/accomplishments/certificate/U6J98JGB4H5T)
 - [AI-Powered Software and System Design](https://www.coursera.org/account/accomplishments/certificate/JMGY5AV71G8X)
 
+### [AWS Cloud Technology Consultant Professional Certificate ⏳](#)
+
+- [Introduction to Information Technology and AWS Cloud](https://www.coursera.org/account/accomplishments/certificate/J7YVW64D3USO)
+- [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE)
+- [Providing Technical Support for AWS Workloads](https://www.coursera.org/account/accomplishments/certificate/27NM6MWC2IQ2)
+
 ### [Web Applications for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RHZNGIL8I4FA)
 
 - [Building Web Applications in PHP](https://www.coursera.org/account/accomplishments/certificate/KJN81XAZWGC4)
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/account/accomplishments/certificate/1DB3XZANZGE6)
 - [Building Database Applications in PHP](https://www.coursera.org/account/accomplishments/certificate/CK6G5AG0UC7O)
 - [JavaScript, jQuery, and JSON](https://www.coursera.org/account/accomplishments/certificate/9KMTI5ZW7NP4)
-
-### [AWS Cloud Technology Consultant Professional Certificate ⏳](#)
-
-- [Introduction to Information Technology and AWS Cloud](https://www.coursera.org/account/accomplishments/certificate/J7YVW64D3USO)
-- [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE)
 
 ### [Improve Your English Communication Skills Specialization ⏳](#)
 
