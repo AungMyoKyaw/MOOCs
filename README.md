@@ -34,6 +34,7 @@ markmap:
 - [Introduction to Information Technology and AWS Cloud](https://www.coursera.org/account/accomplishments/certificate/J7YVW64D3USO)
 - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE)
 - [Providing Technical Support for AWS Workloads](https://www.coursera.org/account/accomplishments/certificate/27NM6MWC2IQ2)
+- [Developing Applications in Python on AWS](https://www.coursera.org/account/accomplishments/certificate/0BK96THRUU05)
 
 ### [Web Applications for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RHZNGIL8I4FA)
 
