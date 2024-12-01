@@ -35,6 +35,7 @@ markmap:
 - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE)
 - [Providing Technical Support for AWS Workloads](https://www.coursera.org/account/accomplishments/certificate/27NM6MWC2IQ2)
 - [Developing Applications in Python on AWS](https://www.coursera.org/account/accomplishments/certificate/0BK96THRUU05)
+- [Skills for Working as an AWS Cloud Consultant](https://www.coursera.org/account/accomplishments/certificate/QJ46WQ4D80BP)
 
 ### [Web Applications for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RHZNGIL8I4FA)
 
