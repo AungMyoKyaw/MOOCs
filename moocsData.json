@@ -304,9 +304,35 @@
     },
     {
       "courseTitle": "Applied Data Science Lab by WorldQuant University",
-      "type": "Course",
+      "type": "Bundle",
       "status": "Completed",
-      "certificateLink": "https://www.credly.com/badges/72d4d407-f65d-4df9-8cc7-156aeb74bfbb"
+      "certificateLink": "https://www.credly.com/badges/72d4d407-f65d-4df9-8cc7-156aeb74bfbb",
+      "courses": [
+        {
+          "title": "Housing in Mexico"
+        },
+        {
+          "title": "Apartment Sales in Buenos Aires"
+        },
+        {
+          "title": "Air Quality in Nairobi"
+        },
+        {
+          "title": "Earthquake Damage in Nepal"
+        },
+        {
+          "title": "Bankruptcy in Poland"
+        },
+        {
+          "title": "Customer Segmentation in the US"
+        },
+        {
+          "title": "A/B Testing at WorldQuant University"
+        },
+        {
+          "title": "Volatility Forecasting in India"
+        }
+      ]
     },
     {
       "courseTitle": "Prompt Engineering for ChatGPT by Vanderbilt University",

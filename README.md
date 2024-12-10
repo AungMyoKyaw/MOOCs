@@ -115,6 +115,15 @@ markmap:
 
 ### [Applied Data Science Lab by WorldQuant University](https://www.credly.com/badges/72d4d407-f65d-4df9-8cc7-156aeb74bfbb)
 
+- [Housing in Mexico](undefined)
+- [Apartment Sales in Buenos Aires](undefined)
+- [Air Quality in Nairobi](undefined)
+- [Earthquake Damage in Nepal](undefined)
+- [Bankruptcy in Poland](undefined)
+- [Customer Segmentation in the US](undefined)
+- [A/B Testing at WorldQuant University](undefined)
+- [Volatility Forecasting in India](undefined)
+
 ### [Prompt Engineering for ChatGPT by Vanderbilt University](https://www.coursera.org/account/accomplishments/certificate/TWXADA5XBUQR)
 
 ### [Meta Front-End Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/X5EVPVJSCPFH)
