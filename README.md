@@ -37,6 +37,7 @@ markmap:
 - [Developing Applications in Python on AWS](https://www.coursera.org/account/accomplishments/certificate/0BK96THRUU05)
 - [Skills for Working as an AWS Cloud Consultant](https://www.coursera.org/account/accomplishments/certificate/QJ46WQ4D80BP)
 - [DevOps on AWS and Project Management](https://www.coursera.org/account/accomplishments/certificate/OU3GDACIIWAC)
+- [Automation in the AWS Cloud](https://www.coursera.org/account/accomplishments/certificate/M5VHGXP9SOH0)
 
 ### [Web Applications for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RHZNGIL8I4FA)
 
