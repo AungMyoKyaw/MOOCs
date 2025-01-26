@@ -29,6 +29,10 @@ markmap:
 - [Team Software Engineering with AI](https://www.coursera.org/account/accomplishments/certificate/U6J98JGB4H5T)
 - [AI-Powered Software and System Design](https://www.coursera.org/account/accomplishments/certificate/JMGY5AV71G8X)
 
+### [Certified Kubernetes Application Developer (CKAD) Specialization ⏳](#)
+
+- [Container and Container Orchestration Fundamentals](https://www.coursera.org/account/accomplishments/certificate/L1YMNJC4S9PF)
+
 ### [AWS Cloud Technology Consultant Professional Certificate ⏳](#)
 
 - [Introduction to Information Technology and AWS Cloud](https://www.coursera.org/account/accomplishments/certificate/J7YVW64D3USO)

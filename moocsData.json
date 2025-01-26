@@ -22,6 +22,18 @@
       ]
     },
     {
+      "courseTitle": "Certified Kubernetes Application Developer (CKAD) Specialization ⏳",
+      "type": "Bundle",
+      "status": "In Progress",
+      "certificateLink": "#",
+      "courses": [
+        {
+          "title": "Container and Container Orchestration Fundamentals",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/L1YMNJC4S9PF"
+        }
+      ]
+    },
+    {
       "courseTitle": "AWS Cloud Technology Consultant Professional Certificate ⏳",
       "type": "Bundle",
       "status": "In Progress",
