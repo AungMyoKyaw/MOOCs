@@ -32,6 +32,7 @@ markmap:
 ### [Certified Kubernetes Application Developer (CKAD) Specialization ⏳](#)
 
 - [Container and Container Orchestration Fundamentals](https://www.coursera.org/account/accomplishments/certificate/L1YMNJC4S9PF)
+- [Kubernetes Fundamentals](https://www.coursera.org/account/accomplishments/certificate/WJF1OUIXYUDQ)
 
 ### [AWS Cloud Technology Consultant Professional Certificate ⏳](#)
 
