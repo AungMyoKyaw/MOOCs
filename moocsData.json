@@ -22,10 +22,10 @@
       ]
     },
     {
-      "courseTitle": "Certified Kubernetes Application Developer (CKAD) Specialization ⏳",
+      "courseTitle": "Certified Kubernetes Application Developer (CKAD) Specialization",
       "type": "Bundle",
-      "status": "In Progress",
-      "certificateLink": "#",
+      "status": "Completed",
+      "certificateLink": "https://www.coursera.org/account/accomplishments/specialization/certificate/P5WLM1UP4VOB",
       "courses": [
         {
           "title": "Container and Container Orchestration Fundamentals",
@@ -34,6 +34,10 @@
         {
           "title": "Kubernetes Fundamentals",
           "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/WJF1OUIXYUDQ"
+        },
+        {
+          "title": "Advanced Kubernetes",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/ZZBK04J9D2OR"
         }
       ]
     },
