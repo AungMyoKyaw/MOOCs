@@ -42,10 +42,10 @@
       ]
     },
     {
-      "courseTitle": "AWS Cloud Technology Consultant Professional Certificate ⏳",
+      "courseTitle": "AWS Cloud Technology Consultant Professional Certificate",
       "type": "Bundle",
-      "status": "In Progress",
-      "certificateLink": "#",
+      "status": "Completed",
+      "certificateLink": "https://www.coursera.org/account/accomplishments/specialization/certificate/T1KMEFFSJZ1Q",
       "courses": [
         {
           "title": "Introduction to Information Technology and AWS Cloud",
@@ -78,6 +78,10 @@
         {
           "title": "Data Analytics and Databases on AWS",
           "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/3S17976LJCFD"
+        },
+        {
+          "title": "Capstone: Following the AWS Well Architected Framework",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/C1JX6E909CPJ"
         }
       ]
     },

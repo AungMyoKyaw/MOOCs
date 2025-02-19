@@ -35,7 +35,7 @@ markmap:
 - [Kubernetes Fundamentals](https://www.coursera.org/account/accomplishments/certificate/WJF1OUIXYUDQ)
 - [Advanced Kubernetes](https://www.coursera.org/account/accomplishments/certificate/ZZBK04J9D2OR)
 
-### [AWS Cloud Technology Consultant Professional Certificate ⏳](#)
+### [AWS Cloud Technology Consultant Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/T1KMEFFSJZ1Q)
 
 - [Introduction to Information Technology and AWS Cloud](https://www.coursera.org/account/accomplishments/certificate/J7YVW64D3USO)
 - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/68M99ZNUD4WE)
@@ -45,6 +45,7 @@ markmap:
 - [DevOps on AWS and Project Management](https://www.coursera.org/account/accomplishments/certificate/OU3GDACIIWAC)
 - [Automation in the AWS Cloud](https://www.coursera.org/account/accomplishments/certificate/M5VHGXP9SOH0)
 - [Data Analytics and Databases on AWS](https://www.coursera.org/account/accomplishments/certificate/3S17976LJCFD)
+- [Capstone: Following the AWS Well Architected Framework](https://www.coursera.org/account/accomplishments/certificate/C1JX6E909CPJ)
 
 ### [Web Applications for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RHZNGIL8I4FA)
 
