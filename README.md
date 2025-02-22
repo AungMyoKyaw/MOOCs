@@ -73,6 +73,7 @@ markmap:
 - [Programming in Python](https://www.coursera.org/account/accomplishments/certificate/SCUDHLQRHSCJ)
 - [Version Control](https://www.coursera.org/account/accomplishments/certificate/ZGLGS7UQPMVE)
 - [Introduction to Databases for Back-End Development](https://www.coursera.org/account/accomplishments/certificate/SK3UDFBK4APY)
+- [Django Web Framework](https://www.coursera.org/account/accomplishments/certificate/LRWM3LRL91U7)
 - [Coding Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/DHWSJ3JJKMEV)
 
 ### [Career Success Specialization ⏳](#)
