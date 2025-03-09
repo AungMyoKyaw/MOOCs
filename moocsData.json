@@ -110,6 +110,42 @@
       ]
     },
     {
+      "courseTitle": "Meta Back-End Developer Professional Certificate ⏳",
+      "type": "Bundle",
+      "status": "In Progress",
+      "certificateLink": "#",
+      "courses": [
+        {
+          "title": "Introduction to Back-End Development",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/L3B7UAL2VX2S"
+        },
+        {
+          "title": "Programming in Python",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/SCUDHLQRHSCJ"
+        },
+        {
+          "title": "Version Control",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/ZGLGS7UQPMVE"
+        },
+        {
+          "title": "Introduction to Databases for Back-End Development",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/SK3UDFBK4APY"
+        },
+        {
+          "title": "Django Web Framework",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/LRWM3LRL91U7"
+        },
+        {
+          "title": "APIs",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/BAAG80M56RWM"
+        },
+        {
+          "title": "Coding Interview Preparation",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/DHWSJ3JJKMEV"
+        }
+      ]
+    },
+    {
       "courseTitle": "Improve Your English Communication Skills Specialization ⏳",
       "type": "Bundle",
       "status": "In Progress",
@@ -147,42 +183,6 @@
         {
           "title": "Object-Oriented Design",
           "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/JE7YQHW54EUJ"
-        }
-      ]
-    },
-    {
-      "courseTitle": "Meta Back-End Developer Professional Certificate ⏳",
-      "type": "Bundle",
-      "status": "In Progress",
-      "certificateLink": "#",
-      "courses": [
-        {
-          "title": "Introduction to Back-End Development",
-          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/L3B7UAL2VX2S"
-        },
-        {
-          "title": "Programming in Python",
-          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/SCUDHLQRHSCJ"
-        },
-        {
-          "title": "Version Control",
-          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/ZGLGS7UQPMVE"
-        },
-        {
-          "title": "Introduction to Databases for Back-End Development",
-          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/SK3UDFBK4APY"
-        },
-        {
-          "title": "Django Web Framework",
-          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/LRWM3LRL91U7"
-        },
-        {
-          "title": "APIs",
-          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/BAAG80M56RWM"
-        },
-        {
-          "title": "Coding Interview Preparation",
-          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/DHWSJ3JJKMEV"
         }
       ]
     },
