@@ -2,6 +2,8 @@
 
 npm i
 
+node generateReadme.js
+
 npm run format
 
 npx markmap-cli --no-toolbar --no-open README.md -o dist/index.html

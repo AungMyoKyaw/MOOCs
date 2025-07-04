@@ -62,6 +62,7 @@ markmap:
 - [Introduction to Databases for Back-End Development](https://www.coursera.org/account/accomplishments/certificate/SK3UDFBK4APY)
 - [Django Web Framework](https://www.coursera.org/account/accomplishments/certificate/LRWM3LRL91U7)
 - [APIs](https://www.coursera.org/account/accomplishments/certificate/BAAG80M56RWM)
+- [The Full Stack](https://www.coursera.org/account/accomplishments/certificate/6LRIPYSXDN91)
 - [Coding Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/DHWSJ3JJKMEV)
 
 ### [Improve Your English Communication Skills Specialization ⏳](#)
