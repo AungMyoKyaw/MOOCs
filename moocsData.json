@@ -112,8 +112,8 @@
     {
       "courseTitle": "Meta Back-End Developer Professional Certificate ⏳",
       "type": "Bundle",
-      "status": "In Progress",
-      "certificateLink": "#",
+      "status": "Completed",
+      "certificateLink": "https://www.coursera.org/account/accomplishments/specialization/certificate/UDY1ESSQILTB",
       "courses": [
         {
           "title": "Introduction to Back-End Development",
@@ -142,6 +142,10 @@
         {
           "title": "The Full Stack",
           "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/6LRIPYSXDN91"
+        },
+        {
+          "title": "Back-End Developer Capstone",
+          "certificateLink": "https://www.coursera.org/account/accomplishments/certificate/GWD95KLK2XP4"
         },
         {
           "title": "Coding Interview Preparation",
